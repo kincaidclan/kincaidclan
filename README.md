@@ -1,7 +1,25 @@
-Hi 👋, I'm Nolan, a Data Analyst in Austin, TX.
+# Hi, I'm Nolan 👋
 
-🔧 **Skills**: Python, SQL, Azure, Power BI, Tableau, NLP, Machine Learning  
-🚀 **Interests**: Predictive Analytics, AI-driven solutions, Visual Storytelling  
-📬 **Reach out**: [LinkedIn](https://www.linkedin.com/in/nolan-kincaid-8b60281a5)
+📍 **Austin, TX**
 
-Currently exploring data-driven solutions in tech, energy, and local business analytics.
+I'm a **Data Analyst** passionate about turning data into actionable insights, leveraging advanced analytics, AI-driven chatbots, and engaging visualizations.
+
+### 🔧 Technical Skills:
+- **Programming & Data Analysis:** Python, SQL, Pandas, NumPy
+- **AI & NLP:** ChatGPT, OpenAI, Hugging Face, TensorFlow, PyTorch
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Data Engineering:** Azure Data Factory, Snowflake, Azure Databricks
+
+### 🚀 Featured Projects:
+- [AI-Powered Chatbot](https://github.com/kincaidclan/ai-chatbot)
+- *(Add other significant project links here)*
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/nolan-kincaid-8b60281a5)
+- Email: **nolanckincaid@gmail.com**
+
+### 🎯 Currently exploring:
+- Advanced analytics
+- Predictive modeling for business intelligence
+- Data-driven solutions for local Austin businesses
+
