@@ -12,7 +12,7 @@ I'm a **Data Analyst** passionate about turning data into actionable insights, l
 
 ### 🚀 Featured Projects:
 - [AI-Powered Chatbot](https://github.com/kincaidclan/ai-chatbot)
-- *(Add other significant project links here)*
+- *More to come...*
 
 ### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/nolan-kincaid-8b60281a5)
