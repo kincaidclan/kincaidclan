@@ -12,6 +12,7 @@ I'm a **Data Analyst** passionate about turning data into actionable insights, l
 
 ### 🚀 Featured Projects:
 - [AI-Powered Chatbot](https://github.com/kincaidclan/ai-chatbot)
+- [Sentiment Analysis](https://github.com/kincaidclan/sentiment-analysis-webapp)
 - *More to come...*
 
 ### 📫 Connect with me:
