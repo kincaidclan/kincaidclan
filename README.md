@@ -15,6 +15,7 @@ I'm a **Data Analyst** passionate about turning data into actionable insights, l
 - [Sentiment Analysis](https://github.com/kincaidclan/sentiment-analysis-webapp)
 - [Customer Churn Prediction](https://github.com/kincaidclan/customer-churn-prediction)
 - [A/B Testing](https://github.com/kincaidclan/AB-Testing)
+- [Funnel Analysis](https://github.com/kincaidclan/funnel-analysis)
 - *More to come...*
 
 ### 📫 Connect with me:
