@@ -1,8 +1,6 @@
 # Hi, I'm Nolan 👋
 
-📍 **Austin, TX**
-
-I'm a **Data Analyst** passionate about turning data into actionable insights, leveraging advanced analytics, AI-driven chatbots, and engaging visualizations.
+I'm a **Data Scientist** passionate about turning data into actionable insights, leveraging advanced analytics, AI-driven chatbots, and engaging visualizations.
 
 ### 🔧 Technical Skills:
 - **Programming & Data Analysis:** Python, SQL, Pandas, NumPy
