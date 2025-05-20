@@ -23,5 +23,5 @@ I'm a **Data Scientist** passionate about turning data into actionable insights,
 ### 🎯 Currently exploring:
 - Advanced analytics
 - Predictive modeling for business intelligence
-- Data-driven solutions for local Austin businesses
+- Data-driven solutions for businesses
 
